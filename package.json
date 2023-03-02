@@ -1,5 +1,5 @@
 {
-  "name": "@tarojs/plugin-platform-weapp-miniapp",
+  "name": "@milesjs/plugin-platform-weapp-miniapp",
   "version": "0.0.1",
   "description": "微信多端 app 插件",
   "author": "miles",
