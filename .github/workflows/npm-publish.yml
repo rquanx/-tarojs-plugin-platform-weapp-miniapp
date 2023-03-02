@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-node@v2 # node 环境功能包
         with:                       # 给包配置参数
           node-version: 18
-      - run: npm ci
+      - run: npm i
       - run: npm run build
       - uses: actions/upload-artifact@v2 # 使用 upload-artifact 包用于上传结果
         with:
