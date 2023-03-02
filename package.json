@@ -1,6 +1,6 @@
 {
   "name": "@tarojs/plugin-platform-weapp-miniapp",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "微信多端app插件",
   "author": "miles",
   "homepage": "",
