@@ -1,6 +1,6 @@
 import { Weapp } from '@tarojs/plugin-platform-weapp';
 
-const PACKAGE_NAME = '@milesjs/plugin-platform-weapp-miniapp';
+const PACKAGE_NAME = '@tarojs/plugin-platform-weapp-miniapp';
 
 export default class MiniApp extends Weapp {
   platform = 'miniapp';

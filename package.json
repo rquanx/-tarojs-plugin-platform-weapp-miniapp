@@ -1,10 +1,10 @@
 {
-  "name": "@milesjs/plugin-platform-weapp-miniapp",
-  "version": "0.0.1",
+  "name": "@tarojs/plugin-platform-weapp-miniapp",
+  "version": "1.0.1",
   "description": "微信多端 app 插件",
   "author": "miles",
-  "homepage": "https://github.com/rquanx/tarojs-plugin-platform-weapp-miniapp#readme",
-  "license": "ISC",
+  "homepage": "",
+  "license": "MIT",
   "main": "index.js",
   "keywords": [
     "taro",
@@ -29,9 +29,9 @@
     "url": "https://github.com/rquanx/tarojs-plugin-platform-weapp-miniapp/issues"
   },
   "dependencies": {
-    "@tarojs/service": "^3.6.2",
-    "@tarojs/shared": "^3.6.2",
-    "@tarojs/plugin-platform-weapp": "^3.6.2"
+    "@tarojs/service": "3.4.14",
+    "@tarojs/shared": "3.4.14",
+    "@tarojs/plugin-platform-weapp": "3.4.14"
   },
   "devDependencies": {
     "rollup": "^2.40.0",

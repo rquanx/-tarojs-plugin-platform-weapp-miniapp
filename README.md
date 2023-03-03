@@ -1,4 +1,4 @@
-# `@milesjs/plugin-platform-weapp-miniapp`
+# `@tarojs/plugin-platform-weapp-miniapp`
 
 Taro 插件。用于支持微信多端小程序。
 
@@ -10,7 +10,7 @@ Taro 插件。用于支持微信多端小程序。
 // Taro 项目配置
 module.exports = {
   // ...
-  plugins: ['@milesjs/plugin-platform-weapp-miniapp'],
+  plugins: ['@tarojs/plugin-platform-weapp-miniapp'],
 };
 ```
 
